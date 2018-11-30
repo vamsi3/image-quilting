@@ -1,6 +1,6 @@
 # Image Quilting for Texture Synthesis and Transfer
 
-> This project implements a texture synthesis and transfer technique as described in the paper - [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf) by Efros *et al.*
+> This project implements a texture synthesis and transfer technique as described in the paper - [Image Quilting for Texture Synthesis and Transfer](https://people.eecs.berkeley.edu/~efros/research/quilting/quilting.pdf) by Alexei A. Efros and Willian T. Freeman
 
 You may want to check out the [presentation.pdf](/docs/presentation.pdf) file for more details on this project. It was made as the final project for CS 663 - **Digital Image Processing** course in Autumn 2018 at Indian Institute of Technology (IIT) Bombay, India.
 
